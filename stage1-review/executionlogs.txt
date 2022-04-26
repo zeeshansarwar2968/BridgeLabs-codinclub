@@ -1,0 +1,227 @@
+zeesh@DESKTOP-V139O62 MINGW64 /
+$ pwd
+/
+
+zeesh@DESKTOP-V139O62 MINGW64 /
+$ cd
+
+zeesh@DESKTOP-V139O62 MINGW64 ~
+$ pwd
+/c/Users/zeesh
+
+zeesh@DESKTOP-V139O62 MINGW64 ~
+$ cd ~/Desktop/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop
+$ pwd
+/c/Users/zeesh/Desktop
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop
+$ ls -l
+total 672680
+-rw-r--r-- 1 zeesh 197609   4561626 Jan 27 16:28  1164526.jpg
+-rw-r--r-- 1 zeesh 197609   2139093 Mar 25 12:10  2287a1523e03a77cb17c9189c2bafcd4_6744481196927712577.png
+-rw-r--r-- 1 zeesh 197609 536843178 Mar 26 16:47 'B31WD ENGLISH Session(15_02_2022)_2.mp4'
+drwxr-xr-x 1 zeesh 197609         0 Dec 25 23:57  B31_WeekDayM1/
+drwxr-xr-x 1 zeesh 197609         0 Apr 16 17:07 'BridgeLabz Courseload'/
+drwxr-xr-x 1 zeesh 197609         0 Jan 12  2021 'CCNA Tut'/
+drwxr-xr-x 1 zeesh 197609         0 Jul 13  2021  CCNA_Udemy/
+-rw-r--r-- 1 zeesh 197609     54308 Oct 20  2019  Chordchart.pdf
+drwxr-xr-x 1 zeesh 197609         0 Apr 11 22:05  CodeLabz/
+drwxr-xr-x 1 zeesh 197609         0 May 15  2021 'Command Line Bootcamp'/
+-rw-r--r-- 1 zeesh 197609     31571 Apr 20  2021 'DNYAN Automation Pvt Ltd_F11.0_ZeeshanSarwar_01-Apr-21 to 20-Apr-21.xlsx'
+-rw-r--r-- 1 zeesh 197609     31755 Nov 20 11:30 'DNYAN Automation Pvt Ltd_F11.0_ZeeshanSarwar_21-October-21 to 20-November-21.xlsx'
+-rw-r--r-- 1 zeesh 197609   4409670 Apr 16  2021  DataScience.pdf
+drwxr-xr-x 1 zeesh 197609         0 Oct 20 10:34 'FAMILY PHOTOS'/
+drwxr-xr-x 1 zeesh 197609         0 Mar  6  2019  GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}/
+drwxr-xr-x 1 zeesh 197609         0 Mar 11 12:56  Guvi_BootCamp/
+-rw-r--r-- 1 zeesh 197609 138907372 Oct 14  2019  MIT_DATA_STRUCTURES.zip
+drwxr-xr-x 1 zeesh 197609         0 Nov 12 16:17 'Python work files'/
+drwxr-xr-x 1 zeesh 197609         0 Apr  6 15:52 'REACT PROJECTS FINAL'/
+drwxr-xr-x 1 zeesh 197609         0 Apr  1 09:06  RESUMES/
+drwxr-xr-x 1 zeesh 197609         0 Nov 23 22:13  Response_Website/
+drwxr-xr-x 1 zeesh 197609         0 Sep 22  2020  Solution/
+-rw-r--r-- 1 zeesh 197609    465401 Sep  4  2021  VaccinationCertificate.pdf
+drwxr-xr-x 1 zeesh 197609         0 Mar 19 16:38 'Web Development Projects'/
+-rwxr-xr-x 1 zeesh 197609      2671 May 24  2021 'WordReference Forums.lnk'*
+-rw-r--r-- 1 zeesh 197609     51381 Apr  1 09:04 'Zeeshan Sarwar_CV.docx'
+-rw-r--r-- 1 zeesh 197609    153865 Oct 31 19:59 'Zeeshan Sarwar_CV.pdf'
+drwxr-xr-x 1 zeesh 197609         0 Mar 31  2021  attachments/
+drwxr-xr-x 1 zeesh 197609         0 Apr 15 10:39  codinclub/
+-rw-r--r-- 1 zeesh 197609       282 Jul  4  2021  desktop.ini
+-rw-r--r-- 1 zeesh 197609       108 Sep 13  2021  genshinAccounts.txt
+-rw-r--r-- 1 zeesh 197609    500671 Nov 12 08:43  guvi.pdf
+-rw-r--r-- 1 zeesh 197609    505251 Dec 10 12:06  guvi_final.pdf
+-rw-r--r-- 1 zeesh 197609       279 Dec 15 14:23  guvi_p01.html
+-rw-r--r-- 1 zeesh 197609     73728 Jul 19  2021  py4eDatabase01.db
+-rw-r--r-- 1 zeesh 197609      3411 Jul 19  2021  py4eDatabase02.sqbpro
+-rw-r--r-- 1 zeesh 197609      8192 Jul 11  2021  py4eFun.db
+-rw-r--r-- 1 zeesh 197609       165 Dec 28  2020 '~$pending_interior.xlsx'
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop
+$ cd codinclub/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub
+$ ls -l
+total 12
+drwxr-xr-x 1 zeesh 197609 0 Apr 13 19:05 linux-content/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 01:22 practice007/
+drwxr-xr-x 1 zeesh 197609 0 Apr 15 10:38 practiceself/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub
+$ mkdir stage1-review
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub
+$ ls -l
+total 12
+drwxr-xr-x 1 zeesh 197609 0 Apr 13 19:05 linux-content/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 01:22 practice007/
+drwxr-xr-x 1 zeesh 197609 0 Apr 15 10:38 practiceself/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:20 stage1-review/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub
+$ cd stage1-review/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ touch x.java y.py z.js
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls -l
+total 0
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 x.java
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 y.py
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 z.js
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ touch day4.sh algorithm.txt
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls -l
+total 0
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:21 algorithm.txt
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:21 day4.sh
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 x.java
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 y.py
+-rw-r--r-- 1 zeesh 197609 0 Apr 16 19:20 z.js
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ nano day4.sh
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ cat day4.sh
+
+for item in `ls`
+do
+        folder=`echo $item | awk -F. '{ print $1 }'`
+        subfolder=`echo $item | awk -F. '{ print $2}'`
+        mkdir -p $folder/$subfolder
+        mv $item $folder/$subfolder
+done
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ bash day4.sh
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls -l
+total 0
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 algorithm/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 day4/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 x/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 y/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 z/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls x/
+java/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ lsx/java
+bash: lsx/java: No such file or directory
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls x/java/
+x.java
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls y/py/
+y.py
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls z/js/
+z.js
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ nano algorithm/txt/algorithm.txt
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ cat algorithm/txt/algorithm.txt
+
+Executable program:
+
+for item in `ls`
+do
+        folder=`echo $item | awk -F. '{ print $1 }'`
+        subfolder=`echo $item | awk -F. '{ print $2 }'`
+        mkdir -p $folder/$subfolder
+        mv $item $folder/$subfolder
+done
+
+Logic behind the above program:
+
+1. First we iterate through all the listed files in the folder using a for loop
+
+2. Now while inside the loop we create two variables, namely folder and subfolder
+
+3. We assign the name of the file to folder and extension of the file to subfolder
+
+3. Post the last step we move on to creating the nested directory
+
+4. Here "folder" is the parent directory with "subfolder" being the child/nested directory in the format "folder/subfolder"
+
+5. Finally we move the file into the created nested directory 'subfolder' with -mv- command
+
+6. This loop is run for all the files in the directory, thereby created nested folders for all the files.
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ ls -all
+total 8
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 ./
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:20 ../
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 algorithm/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 day4/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 x/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 y/
+drwxr-xr-x 1 zeesh 197609 0 Apr 16 19:27 z/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ nano algorithm/txt/algorithm.txt
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review
+$ cd day4/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review/day4
+$ cd sh/
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review/day4/sh
+$ ls
+day4.sh
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review/day4/sh
+$ nano day4.sh
+
+zeesh@DESKTOP-V139O62 MINGW64 ~/Desktop/codinclub/stage1-review/day4/sh
+$ cat day4.sh
+
+for item in `ls`
+do
+        folder=`echo $item | awk -F. '{ print $1 }'`
+        subfolder=`echo $item | awk -F. '{ print $2 }'`
+        mkdir -p $folder/$subfolder
+        mv $item $folder/$subfolder
+done

@@ -1,0 +1,21 @@
+
+1. Declare a dictionary to store the computations (computeDictionary)
+
+2. For UC1, take user input three times and assign them to variables a,b and c
+
+3. For UC2, UC3, UC4 and UC5, go through the computations and assign them to their respective variables 
+   and display the results
+
+4. For UC6, store the results in a Dictionary for every Computation and display the results, both the keys and values
+
+5. For UC7, loop through the dictionary and read the values into an array (computeArray) and display the array
+
+6. For UC8, sort the values in the array in descending order and assign them to a new array (arrayDescending)
+
+7. Display the descending ordered array (arrayDescending)
+
+8. For UC9, sort the values in the array in ascending order and assign them to a new array (arrayAscending)
+
+9. Display the ascending ordered array (arrayAscending)
+
+

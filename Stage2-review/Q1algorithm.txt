@@ -1,0 +1,15 @@
+
+1. Creation of temporary array and dictionary to store the elements as well as the frequency
+2. Loop through the elements in the temporary array and add the elements to the dictionary as indices to obtain unique 
+   values and intialise the values to 0
+
+3. Loop through the elements in the temporary array and increment the values of the keys corresponding to the elements
+   in the array, this way for every repetition of the elements in the temporary array the value to corresponding key is increased
+   by 1 in the dictionary
+
+4. Finally loop through dictionary to display the key value pairs as per requirement. 
+   Here,
+   keys of the dictionary:-  are given unique element in the provided temporaryArray
+   values of the dictionary:- are the frequencies of the repeated elements in the provided temporaryArray
+
+5. The output is provided in the form of a string, "$element is repeated ${temporaryDict[$element]} times"

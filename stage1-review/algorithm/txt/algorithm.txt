@@ -1,0 +1,29 @@
+
+Executable program:
+
+for item in `ls`
+do
+	folder=`echo $item | awk -F. '{ print $1 }'`
+	subfolder=`echo $item | awk -F. '{ print $2 }'`
+	mkdir -p $folder/$subfolder
+	mv $item $folder/$subfolder
+done
+
+Logic behind the above program:
+
+1. First we iterate through all the listed files in the folder using a for loop
+
+2. Now while inside the loop we create two variables, namely folder and subfolder
+
+3. We assign the name of the file to folder and extension of the file to subfolder
+
+3. Post the last step we move on to creating the nested directory
+
+4. Here "folder" is the parent directory with "subfolder" being the child/nested 
+   directory in the format "folder/subfolder"
+
+5. Finally we move the file into the created nested directory 'subfolder' with -mv- command,
+   since we want to cut and paste into the subfolder
+
+6. This loop is run for all the files in the directory, thereby creating 
+   nested folders for all the files.
